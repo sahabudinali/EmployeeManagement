@@ -8,7 +8,8 @@ I have JPA, Web Spring, and MYSQL dependencies and generate the file.
 2. After open this file on Eclipse, or Visual Studio.
 3. Create tables in mysql.
 4. After create the packages for Controller, Entity, Service and Repository.
-5. And then classes in that folder.
+5. And then create the classes in that folder.
+6. I have used postman to check the API.
 
 ![image](https://user-images.githubusercontent.com/52666069/179047132-0b417146-0faf-4e30-8fdf-0411f9b98a14.png)
 
