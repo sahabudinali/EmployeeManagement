@@ -7,9 +7,11 @@ I have JPA, Web Spring, and MYSQL dependencies and generate the file.
 
 2. After open this file on Eclipse, or Visual Studio.
 3. Create tables in mysql.
+4. You can also check the file databaseQuery.sql in which I have mention the query. 
+5. I have created two tables one is records in which(id (primary key), fname, lname, location, phone and salary) column have and second is canddetails in which(candId(primary key), Education,Skills and id(Id is foreign key) is matched with the records table) 
 4. After create the packages for Controller, Entity, Service and Repository.
 5. And then create the classes in that folder.
-6. I have used postman to check the API.
+7. I have used postman to check the API.
 
 ![image](https://user-images.githubusercontent.com/52666069/179047132-0b417146-0faf-4e30-8fdf-0411f9b98a14.png)
 
